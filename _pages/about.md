@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a PhD student majoring in Optoelectronics and Photonic Technology. I am currently studying at the school of Precision Instrumentation and Optoelectronic Engineering of Tianjin University. My laboratory is the ultrafast laser laboratory([ULL](https://ull.tju.edu.cn)), and my research work mainly focuses on the exploration and development of ultrafast laser technology. My academic pursuit stems from a strong interest in several key areas : the generation and application of optical frequency combs, the precision measurement capability of dual-comb ranging technology, laser radar ( LIADR ), and long-range target tracking.
+He is a PhD student majoring in Optoelectronics and Photonic Technology. He is currently studying at the school of Precision Instrumentation and Optoelectronic Engineering of Tianjin University. His laboratory is the ultrafast laser laboratory([ULL](https://ull.tju.edu.cn)), and his research work mainly focuses on the exploration and development of ultrafast laser technology. His academic pursuit stems from a strong interest in several key areas: the generation and application of optical frequency combs, the precision measurement capability of dual-comb ranging technology, laser radar ( LIADR ), and long-range target tracking.
 
 
 # 🔥 News
@@ -72,7 +72,7 @@ I am a PhD student majoring in Optoelectronics and Photonic Technology. I am cur
 
 
 # 📖 Educations
-- *2022.09 - 2024.07 (now)*, Optoelectronics and Photonics Technology, School of Precision Instrument and Optoelectronic Engineering, Tianjin University. 
+- *2022.09 - 2024.07 (now)*, Optoelectronics and Photonics Technology, School of Precision Instrument and Optoelectronic Engineering, Tianjin University, Tianjin. 
 - *2019.09 - 2022.06*, Master, Instrument and Meter Engineering, Mechanical Engineering College, Hebei University of Technology, Tianjin.
 - *2013.09 - 2017.06*, Undergraduate, Mechanical Engineering College, Hebei University of Technology, Tianjin. 
 - *2010.09 - 2013.06*, Hengshui Middle School, Hengshui, Hebei Province.
