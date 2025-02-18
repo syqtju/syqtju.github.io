@@ -28,7 +28,7 @@ He is a PhD student majoring in Optoelectronics and Photonic Technology. He is c
 
 # 📝 Publications 
   
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/fig-AP-2024.png' alt="sym" width = "500" height = "300" ></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Photonics</div><img src='images/fig-AP-2024.png' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
   [Resonantly driven nonlinear dynamics of soliton molecules in ultrafast fiber lasers](https://doi.org/10.1117/1.AP.7.1.016005)
 
