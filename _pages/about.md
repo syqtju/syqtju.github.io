@@ -27,12 +27,22 @@ He is a PhD student majoring in Optoelectronics and Photonic Technology. He is c
 - *2022.6*: &nbsp;🎉 Congratulations to Shi！ He passed the application assessment system and obtained the doctoral qualification of Tianjin University.. 
 
 # 📝 Publications 
+  
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/fig-AP-2024.png' alt="sym" width = "500" height = "300" ></div></div>
+  <div class='paper-box-text' markdown="1">
+  [Resonantly driven nonlinear dynamics of soliton molecules in ultrafast fiber lasers](https://doi.org/10.1117/1.AP.7.1.016005)
+
+  -Defeng Zou, Runmin Liu, **Yanqing Shi**, Aoran Zhang, Jialong Li, Gina Jinna Chen, Hong Dang, Youjian Song*, Xiaolong Hu*, and Perry Ping Shum*. **2024**
+  </div>
+  </div>
+
+
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/fig-OE-2024-2.png' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
   [Long-distance and high-precision ranging with dual-comb nonlinear asynchronous optical sampling](https://doi.org/10.1364/OE.527583)
 
-  -Yun Meng, **Yanqing Shi**, Kai Zou, Youjian Song, Xiaolong Hu. **2024**
+  -Yun Meng, **Yanqing Shi**, Kai Zou, Youjian Song*, Xiaolong Hu*. **2024**
   </div>
   </div>
 
@@ -41,7 +51,7 @@ He is a PhD student majoring in Optoelectronics and Photonic Technology. He is c
   <div class='paper-box-text' markdown="1">
   [Inverse prediction of ultrashort pulse nonlinear propagation in optical fibers](https://doi.org/10.1364/OE.527583)
 
-  -Jiayang Cheng, Runmin Liu, **Yanqing Shi**, Minglie Hu. **2024**
+  -Jiayang Cheng, Runmin Liu, **Yanqing Shi**, Minglie Hu*. **2024**
   </div>
   </div>
 
@@ -49,7 +59,7 @@ He is a PhD student majoring in Optoelectronics and Photonic Technology. He is c
   <div class='paper-box-text' markdown="1">
   [System calibration method for infrared phase measuring deflectometry](https://doi.org/10.1016/j.optlastec.2022.108178)
 
-   -Caixia Chang, **Yanqing Shi**, Xiaohong Liu, Ziyu Li, Nan Gao, Zhaozong Meng, Zonghua Zhang. **2022**
+   -Caixia Chang, **Yanqing Shi**, Xiaohong Liu, Ziyu Li, Nan Gao, Zhaozong Meng, Zonghua Zhang*. **2022**
   </div>
   </div>
 
@@ -58,7 +68,7 @@ He is a PhD student majoring in Optoelectronics and Photonic Technology. He is c
   <div class='paper-box-text' markdown="1">
   [Infrared phase measuring deflectometry by using defocused binary fringe](https://doi.org/10.1364/OL.431044)
 
-  -**Yanqing Shi**, Caixia Chang, Xiaohong Liu, Nan Gao, Zhaozong Meng, Zonghua Zhang. **2021**
+  -**Yanqing Shi**, Caixia Chang, Xiaohong Liu, Nan Gao, Zhaozong Meng, Zonghua Zhang*. **2021**
   </div>
   </div>
 
@@ -66,7 +76,7 @@ He is a PhD student majoring in Optoelectronics and Photonic Technology. He is c
   <div class='paper-box-text' markdown="1">
   [Phase measuring deflectometry for obtaining 3D shape of specular surface: a review of the state-of-the-art](https://doi.org/10.1117/1.OE.60.2.020903)
 
-  -Zonghua Zhang, Caixia Chang, Xiaohong Liu, Ziyu Li, **Yanqing Shi**, Nan Gao, Zhaozong Meng. **2021**
+  -Zonghua Zhang*, Caixia Chang, Xiaohong Liu, Ziyu Li, **Yanqing Shi**, Nan Gao, Zhaozong Meng. **2021**
   </div>
   </div>
 
