@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-He is a PhD student majoring in Optoelectronics and Photonic Technology. He is currently studying at the school of Precision Instrumentation and Optoelectronic Engineering of Tianjin University. His laboratory is the ultrafast laser laboratory([ULL](https://ull.tju.edu.cn)), and his research work mainly focuses on the exploration and development of ultrafast laser technology. His academic pursuit stems from a strong interest in several key areas: the generation and application of optical frequency combs, the precision measurement capability of dual-comb ranging technology, laser radar ( LIADR ), and long-range target tracking.
+He is a PhD student majoring in Optoelectronics and Photonic Technology. He is currently studying at the school of Precision Instrumentation and Optoelectronic Engineering of Tianjin University. His laboratory is the ultrafast laser laboratory([ULL](https://ull.tju.edu.cn)), and his research work mainly focuses on the exploration and development of ultrafast laser technology. His academic pursuit stems from a strong interest in several key areas: the generation and application of optical frequency combs, the precision measurement capability of dual-comb, laser radar ( LIADR ), and long-range target tracking.
 
 
 # 🔥 News
-- *2024.9*: &nbsp;🎉 Bless him!
+- *2025.6*: &nbsp;🎉 Bless him!
 
 - *2022.6*: &nbsp;🎉 Congratulations to Shi！ He passed the application assessment system and obtained the doctoral qualification of Tianjin University.. 
 
