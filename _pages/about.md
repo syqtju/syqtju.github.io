@@ -22,7 +22,7 @@ He is a PhD student majoring in Optoelectronics and Photonic Technology. He is c
 
 
 # 🔥 News
-- *2025.6*: &nbsp;🎉 Bless him!
+- *2025.7*: &nbsp;🎉 Bless him!
 
 - *2022.6*: &nbsp;🎉 Congratulations to Shi！ He passed the application assessment system and obtained the doctoral qualification of Tianjin University.. 
 
@@ -83,7 +83,7 @@ He is a PhD student majoring in Optoelectronics and Photonic Technology. He is c
 
 
 # 📖 Educations
-- *2022.09 - 2024.07 (now)*, Optoelectronics and Photonics Technology, School of Precision Instrument and Optoelectronic Engineering, Tianjin University, Tianjin. 
+- *2022.09 - now*, Optoelectronics and Photonics Technology, School of Precision Instrument and Optoelectronic Engineering, Tianjin University, Tianjin. 
 - *2019.09 - 2022.06*, Master, Instrument and Meter Engineering, Mechanical Engineering College, Hebei University of Technology, Tianjin.
 - *2013.09 - 2017.06*, Undergraduate, Mechanical Engineering College, Hebei University of Technology, Tianjin. 
 - *2010.09 - 2013.06*, Hengshui Middle School, Hengshui, Hebei Province.
