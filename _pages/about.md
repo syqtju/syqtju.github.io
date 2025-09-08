@@ -22,7 +22,7 @@ He is a PhD student majoring in Optoelectronics and Photonic Technology. He is c
 
 
 # 🔥 News
-- *2025.7*: &nbsp;🎉 Bless him!
+- *2025.9*: &nbsp;🎉 Bless him!
 
 - *2022.6*: &nbsp;🎉 Congratulations to Shi！ He passed the application assessment system and obtained the doctoral qualification of Tianjin University.. 
 
