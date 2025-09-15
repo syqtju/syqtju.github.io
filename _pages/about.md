@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-He is a PhD student majoring in Optoelectronics and Photonic Technology. He is currently studying at the school of Precision Instrumentation and Optoelectronic Engineering of Tianjin University. His laboratory is the ultrafast laser laboratory([ULL](https://ull.tju.edu.cn)), and his research work mainly focuses on the exploration and development of ultrafast laser technology. His academic pursuit stems from a strong interest in several key areas: the generation and application of optical frequency combs, the precision measurement capability of dual-comb, laser radar ( LIADR ), and long-range target tracking.
+I am a PhD student in Optoelectronics and Photonic Technology at the School of Precision Instrumentation and Optoelectronic Engineering, Tianjin University. As a member of the ultrafast laser laboratory([ULL](https://ull.tju.edu.cn)), my research focuses on the advancement of ultrafast laser technologies. My primary research interests include the generation and application of optical frequency combs, dual-comb precision metrology, LiDAR (Light Detection and Ranging), and long-range target tracking.
 
 
 # 🔥 News
