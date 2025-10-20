@@ -27,6 +27,16 @@ I am a PhD student in Optoelectronics and Photonic Technology at the School of P
 - *2022.6*: &nbsp;🎉 Congratulations to Shi！ He passed the application assessment system and obtained the doctoral qualification of Tianjin University.. 
 
 # 📝 Publications 
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/fig-OL-2025.jpg' alt="sym" width = "500" height = "300" ></div></div>
+  <div class='paper-box-text' markdown="1">
+  [High-precision dual-comb ranging based on two-color nonlinear asynchronous optical sampling](https://doi.org/10.1364/OL.575662)
+
+  -**Yanqing Shi**,Churan Zhang, Ziye Wang, Ziling Wu, Jianing Tao, Kai Wang, Jintao Fan, Minglie Hu, Youjian Song\*. **2025**
+  </div>
+  </div>
+
+
   
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Photonics</div><img src='images/fig-AP-2024.png' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
