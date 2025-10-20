@@ -65,7 +65,7 @@ I am a PhD student in Optoelectronics and Photonic Technology at the School of P
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics and Laser Technology</div><img src='images/fig-OLT-2022.png' alt="sym" width = "500" height = "300" ></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics and Laser Technology</div><img src='images/fig-OLT-2022.jpg' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
   [System calibration method for infrared phase measuring deflectometry](https://doi.org/10.1016/j.optlastec.2022.108178)
 
