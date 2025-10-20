@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a PhD student in Optoelectronics and Photonic Technology at the School of Precision Instrumentation and Optoelectronic Engineering, Tianjin University. As a member of the ultrafast laser laboratory([ULL](https://ull.tju.edu.cn)), my research focuses on the advancement of ultrafast laser technologies. My primary research interests include the generation and application of optical frequency combs, dual-comb precision metrology, LiDAR (Light Detection and Ranging), and long-range target tracking.
+I am a PhD student in Optoelectronics and Photonic Technology at the School of Precision Instrumentation and Optoelectronic Engineering, Tianjin University. As a member of the ultrafast laser laboratory([ULL](https://ull.tju.edu.cn)), my research focuses on the advancement of ultrafast laser technologies. My work on optical frequency combs, dual-comb precision metrology, LiDAR, and long-range target tracking aims to solve key challenges in high-precision, long-distance measurement, with potential applications in precision measurement, aerospace, and time-frequency transfer.
 
 
 # 🔥 News
-- *2025.9*: &nbsp;🎉 Bless him!
+- *Oct. 2025*: &nbsp;🎉Our manuscript, "High-precision dual-comb ranging...", has been accepted by Optics Letters!
 
-- *2022.6*: &nbsp;🎉 Congratulations to Shi！ He passed the application assessment system and obtained the doctoral qualification of Tianjin University.. 
+- *Jun. 2022*: &nbsp;🎉 I passed the entrance examination and was admitted to the Ph.D. program at Tianjin University.
 
 # 📝 Publications 
 
@@ -93,7 +93,7 @@ I am a PhD student in Optoelectronics and Photonic Technology at the School of P
 
 
 # 📖 Educations
-- *2022.09 - now*, Optoelectronics and Photonics Technology, School of Precision Instrument and Optoelectronic Engineering, Tianjin University, Tianjin. 
+- *2022.09 - present*, Optoelectronics and Photonics Technology, School of Precision Instrument and Optoelectronic Engineering, Tianjin University, Tianjin. 
 - *2019.09 - 2022.06*, Master, Instrument and Meter Engineering, Mechanical Engineering College, Hebei University of Technology, Tianjin.
 - *2013.09 - 2017.06*, Undergraduate, Mechanical Engineering College, Hebei University of Technology, Tianjin. 
 - *2010.09 - 2013.06*, Hengshui Middle School, Hengshui, Hebei Province.
