@@ -65,7 +65,7 @@ I am a PhD student in Optoelectronics and Photonic Technology at the School of P
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics and Laser Technology</div><img src='images/fig-OLT-2022.png' alt="sym" width = "400" height = "300" ></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics and Laser Technology</div><img src='images/fig-OLT-2022.png' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
   [System calibration method for infrared phase measuring deflectometry](https://doi.org/10.1016/j.optlastec.2022.108178)
 
@@ -74,7 +74,7 @@ I am a PhD student in Optoelectronics and Photonic Technology at the School of P
   </div>
 
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/fig-OL-2021.png' alt="sym" width = "400" height = "300" ></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/fig-OL-2021.png' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
   [Infrared phase measuring deflectometry by using defocused binary fringe](https://doi.org/10.1364/OL.431044)
 
@@ -82,7 +82,7 @@ I am a PhD student in Optoelectronics and Photonic Technology at the School of P
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optical Engineering</div><img src='images/fig-OE-2021.png' alt="sym" width = "400" height = "300" ></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optical Engineering</div><img src='images/fig-OE-2021.png' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
   [Phase measuring deflectometry for obtaining 3D shape of specular surface: a review of the state-of-the-art](https://doi.org/10.1117/1.OE.60.2.020903)
 
