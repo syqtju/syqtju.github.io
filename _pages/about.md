@@ -40,6 +40,17 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   </div>
 
 
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Laser & Photonics Reviews</div><img src='images/fig-LPR-2026.jpg' alt="sym" width = "500" height = "300" ></div></div>
+  <div class='paper-box-text' markdown="1">
+  [Replica Symmetry Breaking in the Internal Motion Within Ultrafast Dissipative Optical Soliton Molecules](https://doi.org/10.1002/lpor.71461)
+
+  -Defeng Zou, Wenjie Feng, **Yanqing Shi**, Runmin Liu, Gina Jinna Chen, Youjian Song\*, Perry Ping Shum\*. **2026**
+  </div>
+  </div>
+
+
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/fig-OL-2025.jpg' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
   [High-precision dual-comb ranging based on two-color nonlinear asynchronous optical sampling](https://doi.org/10.1364/OL.575662)
