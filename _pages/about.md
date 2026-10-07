@@ -35,7 +35,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracking](https://doi.org/10.1364/OL.575662)
 
-  -**Yanqing Shi**,Ziye Wang, Ziling Wu, Kai Wang, Peng Sun, Minglie Hu, Youjian Song\*. **2026**
+  - **Yanqing Shi**,Ziye Wang, Ziling Wu, Kai Wang, Peng Sun, Minglie Hu, Youjian Song\*. **2026**
   </div>
   </div>
 
@@ -45,7 +45,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [Replica Symmetry Breaking in the Internal Motion Within Ultrafast Dissipative Optical Soliton Molecules](https://doi.org/10.1002/lpor.71461)
 
-  -Defeng Zou, Wenjie Feng, **Yanqing Shi**, Runmin Liu, Gina Jinna Chen, Youjian Song\*, Perry Ping Shum\*. **2026**
+  - Defeng Zou, Wenjie Feng, **Yanqing Shi**, Runmin Liu, Gina Jinna Chen, Youjian Song\*, Perry Ping Shum\*. **2026**
   </div>
   </div>
 
@@ -55,7 +55,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [High-precision dual-comb ranging based on two-color nonlinear asynchronous optical sampling](https://doi.org/10.1364/OL.575662)
 
-  -**Yanqing Shi**,Churan Zhang, Ziye Wang, Ziling Wu, Jianing Tao, Kai Wang, Jintao Fan, Minglie Hu, Youjian Song\*. **2025**
+  - **Yanqing Shi**,Churan Zhang, Ziye Wang, Ziling Wu, Jianing Tao, Kai Wang, Jintao Fan, Minglie Hu, Youjian Song\*. **2025**
   </div>
   </div>
 
@@ -65,7 +65,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [Resonantly driven nonlinear dynamics of soliton molecules in ultrafast fiber lasers](https://doi.org/10.1117/1.AP.7.1.016005)
 
-  -Defeng Zou, Runmin Liu, **Yanqing Shi**, Aoran Zhang, Jialong Li, Gina Jinna Chen, Hong Dang, Youjian Song\*, Minglie Hu\*, and Perry Ping Shum\*. **2024**
+  - Defeng Zou, Runmin Liu, **Yanqing Shi**, Aoran Zhang, Jialong Li, Gina Jinna Chen, Hong Dang, Youjian Song\*, Minglie Hu\*, and Perry Ping Shum\*. **2024**
   </div>
   </div>
 
@@ -75,7 +75,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [Long-distance and high-precision ranging with dual-comb nonlinear asynchronous optical sampling](https://doi.org/10.1364/OE.527583)
 
-  -Yun Meng, **Yanqing Shi**, Kai Zou, Youjian Song\*, Xiaolong Hu\*. **2024**
+  - Yun Meng, **Yanqing Shi**, Kai Zou, Youjian Song\*, Xiaolong Hu\*. **2024**
   </div>
   </div>
 
@@ -84,7 +84,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [Inverse prediction of ultrashort pulse nonlinear propagation in optical fibers](https://doi.org/10.1364/OE.527583)
 
-  -Jiayang Cheng, Runmin Liu, **Yanqing Shi**, Minglie Hu\*. **2024**
+  - Jiayang Cheng, Runmin Liu, **Yanqing Shi**, Minglie Hu\*. **2024**
   </div>
   </div>
 
@@ -92,7 +92,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [System calibration method for infrared phase measuring deflectometry](https://doi.org/10.1016/j.optlastec.2022.108178)
 
-   -Caixia Chang, **Yanqing Shi**, Xiaohong Liu, Ziyu Li, Nan Gao, Zhaozong Meng, Zonghua Zhang\*. **2022**
+  - Caixia Chang, **Yanqing Shi**, Xiaohong Liu, Ziyu Li, Nan Gao, Zhaozong Meng, Zonghua Zhang\*. **2022**
   </div>
   </div>
 
@@ -101,7 +101,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [Infrared phase measuring deflectometry by using defocused binary fringe](https://doi.org/10.1364/OL.431044)
 
-  -**Yanqing Shi**, Caixia Chang, Xiaohong Liu, Nan Gao, Zhaozong Meng, Zonghua Zhang\*. **2021**
+  - **Yanqing Shi**, Caixia Chang, Xiaohong Liu, Nan Gao, Zhaozong Meng, Zonghua Zhang\*. **2021**
   </div>
   </div>
 
@@ -109,7 +109,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [Phase measuring deflectometry for obtaining 3D shape of specular surface: a review of the state-of-the-art](https://doi.org/10.1117/1.OE.60.2.020903)
 
-  -Zonghua Zhang\*, Caixia Chang, Xiaohong Liu, Ziyu Li, **Yanqing Shi**, Nan Gao, Zhaozong Meng. **2021**
+  - Zonghua Zhang\*, Caixia Chang, Xiaohong Liu, Ziyu Li, **Yanqing Shi**, Nan Gao, Zhaozong Meng. **2021**
   </div>
   </div>
 
