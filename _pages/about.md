@@ -35,7 +35,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracking](https://doi.org/10.1364/OL.575662)
 
-  -**Yanqing Shi**,Ziye Wang, Ziling Wu, Kai Wang, Pneg Sun, Minglie Hu, Youjian Song\*. **2026**
+  -**Yanqing Shi**,Ziye Wang, Ziling Wu, Kai Wang, Peng Sun, Minglie Hu, Youjian Song\*. **2026**
   </div>
   </div>
 
