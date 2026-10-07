@@ -31,7 +31,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
 
 # 📝 Publications 
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/fig-OE-2026.png' alt="sym" width = "500" height = "300" ></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Express</div><img src='images/fig-OE-2026.png' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
   [Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracking](https://doi.org/10.1364/OL.575662)
 
