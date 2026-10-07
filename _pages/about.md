@@ -31,6 +31,15 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
 
 # 📝 Publications 
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/fig-OE-2026.png' alt="sym" width = "500" height = "300" ></div></div>
+  <div class='paper-box-text' markdown="1">
+  [Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracking](https://doi.org/10.1364/OL.575662)
+
+  -**Yanqing Shi**,Ziye Wang, Ziling Wu, Kai Wang, Pneg Sun, Minglie Hu, Youjian Song\*. **2026**
+  </div>
+  </div>
+
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters</div><img src='images/fig-OL-2025.jpg' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
   [High-precision dual-comb ranging based on two-color nonlinear asynchronous optical sampling](https://doi.org/10.1364/OL.575662)
