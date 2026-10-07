@@ -22,7 +22,7 @@ I am a PhD student in Optoelectronics and Photonic Technology at the School of P
 
 
 # 🔥 News
-- *Oct. 2025*: &nbsp;🎉Our manuscript, "	
+- *Oct. 2026*: &nbsp;🎉Our manuscript, "	
 Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracking", has been accepted by Optics Express!
 
 - *Oct. 2025*: &nbsp;🎉Our manuscript, "High-precision dual-comb ranging based on two-color nonlinear asynchronous optical sampling", has been accepted by Optics Letters!
