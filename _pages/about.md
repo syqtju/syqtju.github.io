@@ -22,7 +22,10 @@ I am a PhD student in Optoelectronics and Photonic Technology at the School of P
 
 
 # 🔥 News
-- *Oct. 2025*: &nbsp;🎉Our manuscript, "High-precision dual-comb ranging...", has been accepted by Optics Letters!
+- *Oct. 2025*: &nbsp;🎉Our manuscript, "	
+Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracking", has been accepted by Optics Express!
+
+- *Oct. 2025*: &nbsp;🎉Our manuscript, "High-precision dual-comb ranging based on two-color nonlinear asynchronous optical sampling", has been accepted by Optics Letters!
 
 - *Jun. 2022*: &nbsp;🎉 I passed the entrance examination and was admitted to the Ph.D. program at Tianjin University.
 
