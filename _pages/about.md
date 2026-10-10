@@ -65,7 +65,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   <div class='paper-box-text' markdown="1">
   [Resonantly driven nonlinear dynamics of soliton molecules in ultrafast fiber lasers](https://doi.org/10.1117/1.AP.7.1.016005)
 
-  - Defeng Zou, Runmin Liu, **Yanqing Shi**, Aoran Zhang, Jialong Li, Gina Jinna Chen, Hong Dang, Youjian Song\*, Minglie Hu\*, and Perry Ping Shum\*. **2024**
+  - Defeng Zou, Runmin Liu, **Yanqing Shi**, Aoyan Zhang, Jialong Li, Gina Jinna Chen, Hong Dang, Youjian Song\*, Minglie Hu\*, and Perry Ping Shum\*. **2025**
   </div>
   </div>
 
@@ -115,7 +115,7 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
 
 
 
-# 📖 Educations
+# 📖 Education
 - *2022.09 - present*, Optoelectronics and Photonics Technology, School of Precision Instrument and Optoelectronic Engineering, Tianjin University, Tianjin. 
 - *2019.09 - 2022.06*, Master, Instrument and Meter Engineering, Mechanical Engineering College, Hebei University of Technology, Tianjin.
 - *2013.09 - 2017.06*, Undergraduate, Mechanical Engineering College, Hebei University of Technology, Tianjin. 
