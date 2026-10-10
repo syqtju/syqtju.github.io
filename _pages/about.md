@@ -110,10 +110,10 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
 
 
 # 📖 Education
-- *2022.09 - present*, Optoelectronics and Photonics Technology, School of Precision Instrument and Optoelectronic Engineering, Tianjin University, Tianjin. 
-- *2019.09 - 2022.06*, Master, Instrument and Meter Engineering, Mechanical Engineering College, Hebei University of Technology, Tianjin.
-- *2013.09 - 2017.06*, Undergraduate, Mechanical Engineering College, Hebei University of Technology, Tianjin. 
-- *2010.09 - 2013.06*, Hengshui Middle School, Hengshui, Hebei Province.
+- *2022.09 - present*, Optoelectronics and Photonics Technology, School of Precision Instrument and Optoelectronic Engineering, Tianjin University, Tianjin, China. 
+- *2019.09 - 2022.06*, Master, Instrument and Meter Engineering, School of Mechanical Engineering, Hebei University of Technology, Tianjin, China.
+- *2013.09 - 2017.06*, Undergraduate, Mechanical Engineering College, Hebei University of Technology, Tianjin, China. 
+- *2010.09 - 2013.06*, Hengshui Middle School, Hengshui, Hebei Province, China.
 
 
 
