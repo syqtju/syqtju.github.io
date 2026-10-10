@@ -80,13 +80,6 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
   </div>
 
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Optics Letters</div><img src='images/fig-COL-2024.png' alt="sym" width = "500" height = "300"  ></div></div>
-  <div class='paper-box-text' markdown="1">
-  [Inverse prediction of ultrashort pulse nonlinear propagation in optical fibers](https://doi.org/10.3788/COL202422.111902）
-
-  - Jiayang Cheng, Runmin Liu, **Yanqing Shi**, Minglie Hu\*. **2024**
-  </div>
-  </div>
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics and Laser Technology</div><img src='images/fig-OLT-2022.jpg' alt="sym" width = "500" height = "300" ></div></div>
   <div class='paper-box-text' markdown="1">
@@ -120,5 +113,9 @@ Dual-comb time-of-flight measurement via attosecond-resolved active pulse tracki
 - *2019.09 - 2022.06*, Master, Instrument and Meter Engineering, Mechanical Engineering College, Hebei University of Technology, Tianjin.
 - *2013.09 - 2017.06*, Undergraduate, Mechanical Engineering College, Hebei University of Technology, Tianjin. 
 - *2010.09 - 2013.06*, Hengshui Middle School, Hengshui, Hebei Province.
+
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
  
